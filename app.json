@@ -1,0 +1,16 @@
+{
+  "name": "Northway-Demo",
+  "description": "My first run ",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
